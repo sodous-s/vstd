@@ -66,6 +66,3 @@ pub fn ceil(x: double) -> double {
 pub fn fmod(x: double, y: double) -> double {
     return fmod(x, y)
 }
-
-pub const PI: double = 3.141592653589793
-pub const E: double  = 2.718281828459045
